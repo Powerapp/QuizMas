@@ -1,0 +1,5 @@
+<Alloy>
+    <EmailDialog id="emailDialog" subject="QuizWiz frågor" messageBody="Merry Quizmaz!" />
+</Alloy>
+
+

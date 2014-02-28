@@ -1,0 +1,17 @@
+<Alloy>
+	<Window class="container" navBarHidden="true" fullscreen="true" backgroundImage="images/background.png">
+		<View id="quiz" onClick="showWin2">
+			<Label id="quizLabel"></Label>	
+		</View>
+		<View id="howTo" onClick="showHowTo">
+			<Label id="howToLabel"></Label>	
+		</View>
+		<View id="mailTemplate" onClick="showMailTemplate">
+			<Label id="mailTemplateLabel"></Label>	
+		</View>
+		<View id="mailAnswers" onClick="showMailAnswers">
+			<Label id="mailAnswersLabel"></Label>	
+		</View>
+		<Label id="copyright"></Label>
+	</Window>
+</Alloy>

@@ -1,0 +1,12 @@
+<Alloy>
+	<Window id="quizWin" fullscreen = "true" navBarHidden="true">
+		<View id="closeBtn" onClick="closeMe">
+			<Label id="closeBtnLabel"></Label>
+		</View>
+		<View id="answersBtn" onClick="showAnswers">
+			<Label id="answersBtnLabel"></Label>
+		</View>
+			<ScrollableView id ="quizViews" onClick="handleClickOnButton" showPagingControl="true" onScrollEnd="keepPhoneAwake"></ScrollableView>
+	</Window>
+</Alloy>
+

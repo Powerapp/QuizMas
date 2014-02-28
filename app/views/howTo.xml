@@ -1,0 +1,16 @@
+<Alloy>
+	<Window id="howToWin" fullscreen = "true" navBarHidden="true">
+		<View id="closeBtn" onClick="closeMe">
+			<Label id="closeBtnLabel"></Label>
+		</View>
+		<View id="firstView">
+			<Label id="firstLabel"></Label>
+		</View>
+		<View id="secondView">
+			<Label id="secondLabel"></Label>
+		</View>
+		<View id="thirdView">
+			<Label id="thirdLabel"></Label>
+		</View>
+	</Window>
+</Alloy>

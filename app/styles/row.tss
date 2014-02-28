@@ -1,0 +1,76 @@
+"#question": {
+	width:"auto",
+	height:"auto",
+	top:"5dp",
+	left:"30dp",
+	right:'10dp',
+	font:{fontSize:'14sp'},
+	color:'#fff'
+},
+"#viewNumber":{
+	width:"auto",
+	height:"auto",
+	bottom:"0dp",
+	right:"0dp",
+	font:{fontSize:'150sp'},
+	color:"#239b34",
+	opacity:0.4
+
+},
+"#answerA": {
+	width:"auto",
+	height:"auto",
+	left:'80dp',
+	right:'5dp',
+	top:"70dp",
+	font:{fontSize:'12sp'},
+	color:'#fff',
+	visible:false,
+},
+"#answerB": {
+	width:"auto",
+	height:"auto",
+	left:'80dp',
+	right:'5dp',
+	top:"140dp",
+	font:{fontSize:'12sp'},	
+	color:'#fff',
+	visible:false,
+
+},
+"#answerC": {
+	width:"auto",
+	height:"auto",
+	left:'80dp',
+	right:'5dp',
+	top:"210dp",
+	font:{fontSize:'12sp'},
+	color:'#fff',
+	visible:false,
+
+},
+"#answerD": {
+	width:"auto",
+	height:"auto",
+	left:'80dp',
+	right:'5dp',
+	top:"280dp",
+	font:{fontSize:'12sp'},
+	color:'#fff',
+	visible:false,
+
+},
+"#answerE": {
+	width:"auto",
+	height:"auto",
+	left:'80dp',
+	right:'5dp',
+	top:"350dp",
+	font:{fontSize:'12sp'},	
+	color:'#fff',
+	visible:false,
+
+}
+
+
+

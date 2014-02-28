@@ -1,0 +1,71 @@
+"#howToWin":{
+	backgroundColor:"#233875",
+	layout:'vertical',
+	orientationModes: [
+        Ti.UI.PORTRAIT
+    ] 
+},
+"#closeBtn": {
+	width:"100%",
+	height:"40dp",
+	top:"0dp",
+	bottom:"0dp",
+	left:"0dp",
+
+
+},
+"#closeBtnLabel":{
+	width:"50dp",
+	height:"40dp",
+	left:'10dp',
+	text:"Meny",
+	color:'#fff',
+	font:{fontSize:'12sp'},	
+
+},
+
+
+"#firstView":{
+	width:'100%',
+	height:'35%',
+	backgroundColor:'#239b34'
+},
+"#firstLabel":{
+	width:'80%',
+	height:'auto',
+	font:{fontSize:'14sp'},
+	color:'#fff',
+	font:{fontSize:'12sp'},
+	text:'Quizza på klassiskt vis. Lagen får papper och penna. Vi har gjort en frågemall, men det går lika bra att använda ett tomt papper och låta lagen skriva frågenummer osv. Kör igenom hela quizzet och låt lagen rätta varandras. Svaren kan du få direkt i appen genom att klicka på knappen "Visa svaren". Vill du hellre ha svaren på papper har vi förberett en pdf du kan maila. Det ska vara lätt att leva!',
+	textAlign:'center',
+},
+"#secondView":{
+	width:'100%',
+	height:'25%',
+	backgroundColor:'#20842c'
+},
+
+"#secondLabel":{
+	width:'80%',
+	height:'auto',
+	font:{fontSize:'12sp'},
+	color:'#fff',
+	text:'Eller så quizzar ni rätt upp och ner. Läs frågan, spela låten, skrik högt den som kan, ge poäng. Svaren får du direkt i quizzet genom att klicka på knappen "Visa svaren". Perfekt vid mindre organiserade tillfällen.',
+	textAlign:'center',
+},
+"#thirdView":{
+	width:'100%',
+	height:'20%',
+	backgroundColor:'#1e7228',
+},
+
+"#thirdLabel":{
+	width:'80%',
+	height:'auto',
+	font:{fontSize:'12sp'},
+	color:'#fff',
+	text:'Det som står innanför ( ) ingår inte i svaret. Det är lite extra kuriosa och fungerar utmärkt som utslagsfrågor om det skulle behövas.',
+	textAlign:'center',
+	
+}
+

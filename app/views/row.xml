@@ -1,0 +1,11 @@
+<Alloy>
+	<View showPagingControl="true">
+		<Label id="viewNumber"></Label>
+		<Label id="question"></Label>
+		<Label id="answerA"></Label>
+		<Label id="answerB"></Label>
+		<Label id="answerC"></Label>
+		<Label id="answerD"></Label>
+		<Label id="answerE"></Label>
+	</View>
+</Alloy>
